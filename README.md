@@ -1,5 +1,7 @@
 # Storefront Backend Project
 
+Programmer:  Jesus Guerrero
+Date: 02/21/2022
 ## Getting Started
 
 This repo contains a basic Node and Express app to get you started in constructing an API. To get started, clone this repo and run `yarn` in your terminal at the project root.
